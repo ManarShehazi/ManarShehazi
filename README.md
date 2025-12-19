@@ -66,9 +66,9 @@ I’m passionate about bridging science and engineering to solve real-world prob
 
 ## Languages I Speak
 
-- Arabic: Native  
-- English: C2  
-- French: A2  
+- Arabic
+- English
+- French
 
 ---
 
